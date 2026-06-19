@@ -1,0 +1,26 @@
+# Environment variables
+.env
+frontend/.env
+backend/.env
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+frontend/dist/
+backend/dist/
+
+# Generated Prisma Client
+backend/src/generated/prisma/
+
+# Logs
+*.log
+
+# Editors
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
